@@ -6,8 +6,28 @@
 	<dict>
 		<key>Witch.xcscheme_^#shared#^_</key>
 		<dict>
+			<key>isShown</key>
+			<true/>
 			<key>orderHint</key>
 			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>68C1EEE924BBCF4F00C5ADF7</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>68C1EF0324BBCF5100C5ADF7</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>68C1EF0E24BBCF5100C5ADF7</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>
